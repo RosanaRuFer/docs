@@ -75,7 +75,8 @@ Use this template as a starting point for your `composer.json` file:
     "handle": "plugin-handle",
     "name": "Plugin Name",
     "developer": "Developer Name",
-    "developerUrl": "https://developer-url.com"
+    "developerUrl": "https://developer-url.com",
+    "class": "ns\\prefix\\Plugin"
   }
 }
 ```
